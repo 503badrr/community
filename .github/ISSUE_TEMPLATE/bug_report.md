@@ -7,32 +7,32 @@ assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+**صف الخطأ**
+وصف واضح ومختصر لطبيعة الخطأ.
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+**لإعادة إظهار المشكلة**
+خطوات إعادة إظهار السلوك:
+1. انتقل إلى '...'
+2. انقر على '....'
+3. مرر إلى الأسفل حتى '....'
+4. لاحظ ظهور الخطأ
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+**السلوك المتوقع**
+وصف واضح ومختصر لما كنت تتوقع حدوثه.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+**لقطات الشاشة**
+إذا كان ذلك مناسبًا، أضف لقطات شاشة للمساعدة في شرح المشكلة.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+**سطح المكتب (يرجى إكمال المعلومات التالية):**
+ - نظام التشغيل: [مثال: iOS]
+ - المتصفح: [مثال: Chrome أو Safari]
+ - الإصدار: [مثال: 22]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+**الهاتف الذكي (يرجى إكمال المعلومات التالية):**
+ - الجهاز: [مثال: iPhone 6]
+ - نظام التشغيل: [مثال: iOS 8.1]
+ - المتصفح: [مثال: المتصفح الافتراضي أو Safari]
+ - الإصدار: [مثال: 22]
 
-**Additional context**
-Add any other context about the problem here.
+**معلومات إضافية**
+أضف أي تفاصيل أخرى متعلقة بالمشكلة هنا.
