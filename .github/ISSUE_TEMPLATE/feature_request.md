@@ -7,14 +7,14 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**هل طلب الميزة مرتبط بمشكلة؟ يرجى الوصف.**
+وصف واضح ومختصر للمشكلة. مثال: أشعر بالإحباط دائمًا عندما [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**صف الحل الذي تريده**
+وصف واضح ومختصر لما تريد أن يحدث.
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+**صف البدائل التي فكرت فيها**
+وصف واضح ومختصر لأي حلول أو ميزات بديلة فكرت فيها.
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+**معلومات إضافية**
+أضف أي تفاصيل إضافية أو لقطات شاشة متعلقة بطلب الميزة هنا.
